@@ -8,3 +8,5 @@ I'm a Front End Developer from Brazil, and currently living abroad.
 - 🌱 I’m currently learning Linux, Docker, Kubernetes and Cloud with AWS
 - 👯 I’m looking to collaborate on new projects
 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
