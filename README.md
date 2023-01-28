@@ -2,7 +2,7 @@
 
 #
 
-I'm a Front End Developer from Brazil, and currently living abroad. 
+I'm a Front End Developer and a DevOps Engineer from Brazil, and currently living abroad. 
 
 - 🔭 I’m currently working to develop my knowledge in DevOps!
 - 🌱 I’m currently learning Linux, Docker, Kubernetes and Cloud with AWS
