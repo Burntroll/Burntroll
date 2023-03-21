@@ -31,5 +31,5 @@ Talk to me about
 ## 📫 Contact Me
 - LinkedIn - [Here](https://www.linkedin.com/in/francisco-silva-dev/)
 - Gmail - [Here](mailto:francisco.silva.dev@gmail.com)
-- WhatsApp - [Here](https://api.whatsapp.com/send?phone=+79855355415)
+- WhatsApp - [Here](https://api.whatsapp.com/send?phone=79855355415)
 - Telegram - [Here](https://t.me/+79855355415)
