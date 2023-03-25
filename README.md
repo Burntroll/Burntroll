@@ -2,11 +2,11 @@
 
 I'm a Front End Developer and a DevOps Engineer from Brazil, and currently living abroad. 
 
-💜 Passionate about technology and developing solutions. 
-🔭 I’m currently working to develop my knowledge in DevOps!
-🌱 I’m currently learning Linux, Docker, Kubernetes and Cloud with AWS
-👯 I’m looking to collaborate on new projects
-🎮 Enjoys gaming in free time.
+💜 Passionate about technology and developing solutions. <br>
+🔭 I’m currently working to develop my knowledge in DevOps! <br>
+🌱 I’m currently learning Linux, Docker, Kubernetes and Cloud with AWS <br>
+👯 I’m looking to collaborate on new projects <br>
+🎮 Enjoys gaming in free time. <br>
 
 # Francisco Silva 😃
 Developer Fullstack
