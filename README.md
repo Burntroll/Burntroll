@@ -1,12 +1,14 @@
-### Hi! 👋 I'm Jose!
+# 💫 Sobre mim:
 
 #
 
 I'm a Front End Developer and a DevOps Engineer from Brazil, and currently living abroad. 
 
-- 🔭 I’m currently working to develop my knowledge in DevOps!
-- 🌱 I’m currently learning Linux, Docker, Kubernetes and Cloud with AWS
-- 👯 I’m looking to collaborate on new projects
+💜 Passionate about technology and developing solutions. 
+🔭 I’m currently working to develop my knowledge in DevOps!
+🌱 I’m currently learning Linux, Docker, Kubernetes and Cloud with AWS
+👯 I’m looking to collaborate on new projects
+🎮 Enjoys gaming in free time.
 
 # Francisco Silva 😃
 Developer Fullstack
