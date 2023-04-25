@@ -1,6 +1,6 @@
 # 💫 About me:
 
-I'm a FullStack Developer and a DevOps Engineer from Brazil, and currently living abroad. 
+I'm a Fullstack Developer and a DevOps Engineer from Brazil, and currently living abroad. 
 
 💜 Passionate about technology and developing solutions. <br>
 🔭 I’m currently working to develop my knowledge in DevOps! <br>
