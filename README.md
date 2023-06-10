@@ -31,7 +31,33 @@ Talk to me about
 - Infrastructure automation with "Terraform and Jenkins"
 - Source Control using **GIT**
 - Agile Methodologies
+  
+  
+<div style="display: inline_block"><br>
+  <br>
+  <br>
+<img align="center" alt="Burntroll-Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="center" alt="Burntroll-Ubuntu" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" />
+<img align="center" alt="Burntroll-docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="center" alt="Burntroll-github" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="center" alt="Burntroll-gitlab" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+<img align="center" alt="Burntroll-bitbucket" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
+<img align="center" alt="Burntroll-kubernetes" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
+<img align="center" alt="Burntroll-aws" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="center" alt="FelBurntrolltex-azure" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<img align="center" alt="Burntroll-Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<img align="center" alt="Burntroll-html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
+<img align="center" alt="Burntroll-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="center" alt="Burntroll-postgre" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="center" alt="Burntroll-Intellij" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" />
+<img align="center" alt="Burntroll-Gradle" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" />
+<img align="center" alt="Burntroll-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center" alt="Burntroll-Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 
+
+  
+</div>
+  
 ## 📫 Contact Me
 - LinkedIn - [Here](https://www.linkedin.com/in/francisco-silva-dev/)
 - Gmail - [Here](mailto:francisco.silva.dev@gmail.com)
