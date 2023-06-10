@@ -11,6 +11,12 @@ I'm a Fullstack Developer and a DevOps Engineer from Brazil, and currently livin
 # Francisco Silva 😃
 Developer Fullstack
 
+<div align="center">
+  <a href="https://github.com/burntroll">
+  <img align="" height="180em" src="https://github-readme-stats.vercel.app/api?username=burntroll&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burntroll&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=burntroll&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burntroll)](https://github.com/anuraghazra/github-readme-stats)
